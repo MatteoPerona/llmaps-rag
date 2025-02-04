@@ -179,8 +179,9 @@ cython_debug/
 ehthumbs.db
 Thumbs.db
 
-# raw data
+# data
 raw-documents/
+intermediate-outputs/
 
 # tests
 tests.ipynb
